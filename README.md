@@ -5,3 +5,7 @@
 - `main.ipynb`: contains the full analysis.
 - `utils.py`: declares some utility functions used in `main.ipynb`.
 - `notes.ipynb`: scratchpad used during the analysis, version controlled for completeness.
+
+## Setup
+
+ run `uv sync`, then open `main.ipynb` with the `.venv` kernel.
